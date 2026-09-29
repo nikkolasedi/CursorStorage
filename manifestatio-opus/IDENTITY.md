@@ -12,10 +12,10 @@ Locked to the Michelin carousel in `week-2026-09-28/01-michelin/slides/`. Match 
 
 ### Caption do's
 
-- Lead with the twist.
-- Name the company in sentence 1.
-- Four sentences. One lesson.
-- Sign `@Manifestatio.Opus`.
+- Lead with the twist. Make it swipeable and specific.
+- Name the company or the mechanism in the first two lines.
+- One stealable lesson. Sign `@Manifestatio.Opus`.
+- Instagram auto-post: interesting caption, still no guru speak. 4–8 short lines is fine.
 
 ### Caption don'ts
 
@@ -64,8 +64,10 @@ Every slide, including slide 8, gets a **realistic glossy photo print** of the a
 
 Always **8 slides**.
 
-1. Cover: photo + hook.
-2–6. Mechanism, numbers, plot.
+1. Cover:
+   - Stories 1–3: photo + hook.
+   - **Story 4 onward:** quiz cover. 1–3 questions (multiple choice and/or fill-in-the-blank) about a surprising fact. Do **not** mark the correct answers on slide 1. Handwritten `swipe for answers`. Photo print still ~40%.
+2–6. Mechanism, numbers, plot. Reveal quiz answers in the story, not as a scorecard.
 7. Lesson. More whitespace. One handwritten star.
 8. **Always** this exact closer:
 
@@ -90,4 +92,6 @@ Cream grid on walnut + `@Manifestatio.Opus` + `N/8` + one tactile object + one p
 - [ ] Photo print of the real brand/product
 - [ ] No faces, no extra text
 - [ ] Slide 8 is the Manifestatio closer
-- [ ] Caption is 4 sentences
+- [ ] Caption is interesting and on-voice
+- [ ] From story 4 on, cover is a quiz and does not reveal answers
+- [ ] Auto-posted to Instagram via Composio after generation

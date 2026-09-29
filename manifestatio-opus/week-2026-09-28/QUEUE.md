@@ -2,7 +2,7 @@
 
 Timezone: `Europe/Berlin`. Generate at **06:00**. Cron while CEST: `0 4 * * *` UTC.
 
-Photo of the real brand/product on every slide. Slide 8 is always the Manifestatio closer. Caption: 4 sentences.
+Photo of the real brand/product on every slide. Slide 8 is always the Manifestatio closer. Auto-post each finished carousel to Instagram. From story 4 onward, slide 1 is a quiz cover (pending user lock).
 
 | Berlin date | Story | Brief | Status |
 | --- | --- | --- | --- |

@@ -8,11 +8,12 @@ You are the Manifestatio.Opus factory in **nikkolasedi/CursorStorage**. Never wr
 2. Open `week-2026-09-28/QUEUE.md` and the matching `brief.md`.
 3. If today's row is already `DONE`, post a one-line Slack note and stop.
 4. If today is before Tue 29 Sep 2026 06:00 Berlin, **do not generate**. Wait.
-5. Generate that day's **8 slides**, then the 4-sentence caption.
+5. Generate that day's **8 slides**, then a creative on-voice Instagram caption.
 6. Save, commit, push, update the PR, post to Slack.
-7. Mark the story `DONE` in `QUEUE.md`.
+7. **Auto-post to Instagram** via Composio (see below).
+8. Mark the story `DONE` in `QUEUE.md` and include the Instagram permalink.
 
-Tuesday 29 Sep is **IKEA**. Generate IKEA first.
+From **story 4 (Samwer) onward**, slide 1 is a quiz cover. McDonald's (story 3) still uses the hook cover. Do not ship the Samwer quiz cover until the user locks the example.
 
 ## Generate slides
 
@@ -53,7 +54,20 @@ Yellow on **Duolingo for business enthusiasts**. Blue arrow to the last line. Ha
 
 ## Caption
 
-Four sentences. Company in sentence 1. Mechanism in the middle. Lesson last. Sign `@Manifestatio.Opus`. Save as `caption.txt`.
+Interesting and swipeable. Twist in the first line. Mechanism in the middle. Lesson last. Sign `@Manifestatio.Opus`. No hashtag walls. Save as `caption.txt`.
+
+## Instagram auto-post (Composio)
+
+After the slides are committed and the GitHub raw JPEGs return `200` with `content-type: image/jpeg`:
+
+1. Confirm Instagram is ACTIVE (`@manifestatio.opus`, Creator).
+2. `INSTAGRAM_CREATE_CAROUSEL_CONTAINER` with `ig_user_id` `28217385824554429`, `child_image_urls` = the eight public raw JPEG URLs in order, `caption` = `caption.txt`.
+3. `INSTAGRAM_POST_IG_USER_MEDIA_PUBLISH` with the container id. `max_wait_seconds` 180.
+4. Fetch permalink with `INSTAGRAM_GET_IG_MEDIA` and include it in Slack.
+
+Raw URL pattern:
+
+`https://raw.githubusercontent.com/nikkolasedi/CursorStorage/cursor/manifestatio-factory-376a/manifestatio-opus/week-2026-09-28/<story>/slides/0N.jpg`
 
 ## Git
 

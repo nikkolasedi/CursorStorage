@@ -16,12 +16,32 @@ What if the fastest way to build a billion-dollar company wasn't to innovate, bu
 
 ## Cover photo
 
-Zalando app box / parcel, or a stack of cloned-site printouts next to an eBay-style auction print. Prefer a real Zalando package or Alando/eBay-era artifact. No faces.
+Zalando parcel. No faces.
+
+## Quiz cover (story 4 onward — WAIT for user lock)
+
+Example is in `quiz-cover-example/01-quiz-example.jpg`. Do not replace 1/8 until the user approves.
+
+Proposed 1/8:
+
+Photo (~40%): Zalando package.
+
+`QUIZ`
+
+`1. Alando cloned eBay. Sold in ___ days.`
+`A) 1,000    B) 100    C) 10`
+
+`2. Zalando cloned which US company?`
+`A) Amazon   B) Zappos   C) eBay`
+
+Handwritten: `swipe for answers`. Do not mark the correct answers.
+
+If the user rejects the quiz cover, fall back to the hook line below.
 
 ## Exact slide text
 
-### 1/8
-Photo (~40%): Zalando package or a European clone-startup desk still-life (laptop showing a shopping site, no readable personal data, no faces).
+### 1/8 (fallback hook, if quiz is not locked)
+Photo (~40%): Zalando package.
 
 `What if the fastest way to a billion wasn't to invent, but to copy?`
 
