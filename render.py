@@ -1,4 +1,9 @@
-"""Render a 5-second "I love you Agnes" motion graphic to agnes.mp4."""
+"""Render a 5-second "I love you Agnes" motion graphic.
+
+    python3 render.py            # silent version -> agnes.mp4
+    python3 render.py --music    # synced to the song -> agnes_music.mp4
+"""
+import argparse
 import math
 import random
 import subprocess
@@ -10,7 +15,23 @@ W, H = 1920, 1080
 FPS = 30
 DURATION = 5.0
 FRAMES = int(FPS * DURATION)
-OUT = "agnes.mp4"
+
+SONG = "Kutemukan Tuhan di Dirimu.mp3"
+# 2:52.0 is the near-silent break before the final chorus comes back in.
+SONG_START = 172.0
+
+# Times are seconds from the start of the clip.
+SILENT = dict(
+    letters=0.35, agnes=1.2, agnes_len=1.5, heart=2.7, lines=2.9,
+    beats=(3.1, 3.45), pulses=(),
+)
+# Song beats in the clip fall at 0.13, 0.83, 1.50, 2.17, 2.80, 3.45, 4.10, 4.73;
+# the music re-enters at 0.83 and the full chorus hits at 1.75.
+MUSIC = dict(
+    letters=0.83, agnes=1.50, agnes_len=1.25, heart=2.62, lines=2.80,
+    beats=(3.45, 4.10), pulses=(1.75, 2.17, 2.80, 4.73),
+)
+T = SILENT
 
 SANS = ImageFont.truetype("fonts/Montserrat.ttf", 64)
 try:
@@ -126,7 +147,7 @@ def draw_line1(t):
     idx = 0
     for c, cw in zip(LINE1, _widths):
         if c != " ":
-            start = 0.35 + idx * 0.07
+            start = T["letters"] + idx * 0.07
             k = ease_out_cubic((t - start) / 0.6)
             if k > 0:
                 dy = (1 - k) * 40
@@ -137,7 +158,7 @@ def draw_line1(t):
 
 
 def draw_agnes(t):
-    reveal = ease_in_out((t - 1.2) / 1.5)
+    reveal = ease_in_out((t - T["agnes"]) / T["agnes_len"])
     if reveal <= 0:
         return None
     text = Image.new("L", (W, H), 0)
@@ -160,13 +181,15 @@ def compose(t):
     frame.alpha_composite(glow1)
     frame.alpha_composite(line1)
 
-    agnes = draw_agnes(t)
     beat = 0.0
+    for bt in T["beats"]:
+        beat = max(beat, math.exp(-((t - bt) / 0.09) ** 2))
+    for bt in T["pulses"]:
+        beat = max(beat, 0.45 * math.exp(-((t - bt) / 0.08) ** 2))
+
+    agnes = draw_agnes(t)
     if agnes is not None:
         mask, edge, reveal = agnes
-
-        for bt in (3.1, 3.45):
-            beat = max(beat, math.exp(-((t - bt) / 0.09) ** 2))
 
         glow_strength = 0.7 + 0.8 * beat
         glow = Image.new("RGBA", (W, H), ROSE + (0,))
@@ -185,7 +208,7 @@ def compose(t):
                 sd.ellipse((edge - r, sy - r, edge + r, sy + r), fill=(255, 225, 200, a))
             frame.alpha_composite(spark.filter(ImageFilter.GaussianBlur(8)))
 
-    heart_k = ease_out_back((t - 2.7) / 0.5)
+    heart_k = ease_out_back((t - T["heart"]) / 0.5)
     if heart_k > 0:
         hl = Image.new("RGBA", (W, H), (0, 0, 0, 0))
         hd = ImageDraw.Draw(hl)
@@ -198,7 +221,7 @@ def compose(t):
         frame.alpha_composite(glowh)
         frame.alpha_composite(hl)
 
-        line_k = ease_out_cubic((t - 2.9) / 0.6)
+        line_k = ease_out_cubic((t - T["lines"]) / 0.6)
         if line_k > 0:
             ld = ImageDraw.Draw(frame)
             half = 260 * line_k
@@ -225,20 +248,37 @@ def compose(t):
 
 
 def main():
-    proc = subprocess.Popen(
-        [
-            "ffmpeg", "-y", "-loglevel", "error",
-            "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
-            "-c:v", "libx264", "-preset", "slow", "-crf", "16", "-pix_fmt", "yuv420p",
-            "-movflags", "+faststart", OUT,
-        ],
-        stdin=subprocess.PIPE,
-    )
+    global T
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--music", action="store_true", help="sync to the song and include its audio")
+    args = parser.parse_args()
+
+    cmd = [
+        "ffmpeg", "-y", "-loglevel", "error",
+        "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
+    ]
+    if args.music:
+        T = MUSIC
+        out = "agnes_music.mp4"
+        cmd += [
+            "-ss", str(SONG_START), "-t", str(DURATION), "-i", SONG,
+            "-af", f"afade=t=in:d=0.3,afade=t=out:st={DURATION - 0.6}:d=0.6",
+            "-c:a", "aac", "-b:a", "256k", "-shortest",
+        ]
+    else:
+        out = "agnes.mp4"
+    cmd += [
+        "-c:v", "libx264", "-preset", "slow", "-crf", "16", "-pix_fmt", "yuv420p",
+        "-movflags", "+faststart", out,
+    ]
+
+    proc = subprocess.Popen(cmd, stdin=subprocess.PIPE)
     for i in range(FRAMES):
         t = i / FPS
-        proc.stdin.write(compose(t).tobytes())
+        frame = compose(t)
+        proc.stdin.write(frame.tobytes())
         if i in (45, 75, 100, 130):
-            compose(t).save(f"preview_{i:03d}.png")
+            frame.save(f"preview_{i:03d}.png")
     proc.stdin.close()
     proc.wait()
 
