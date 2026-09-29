@@ -1727,6 +1727,13 @@ def light_streak_wipe(img, t, at, dur=0.4):
 
 
 def render_frame(t):
+    img = compose(t)
+    fade_in = ss(0.0, 0.9, t)
+    grain = 1.3 if t < T_DUSK else 1.0
+    return finish(img, t, vig=0.9, grain=grain, fade=fade_in)
+
+
+def compose(t):
     if t < T_GATE:
         img, _ = scene_wayang(t)
     elif t < T_DUSK:
@@ -1757,10 +1764,7 @@ def render_frame(t):
     if 7.55 < t < 10.4:
         ph = ((t - 7.55) / BEAT) % 1.0
         img = screen_add(img, glow_layer(W, H, W / 2, 470, 900, (255, 160, 140), 0.18 * (1 - ph) ** 3, 2), 1)
-
-    fade_in = ss(0.0, 0.9, t)
-    grain = 1.3 if t < T_DUSK else 1.0
-    return finish(img, t, vig=0.9, grain=grain, fade=fade_in)
+    return img
 
 
 def _worker(i):
