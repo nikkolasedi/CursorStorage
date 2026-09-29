@@ -21,12 +21,21 @@ Hyrox sled / race floor / branded start arch or wall balls and a running lane. *
 
 ## Exact slide text
 
-### 1/8
+### 1/8 (quiz — locked)
 Photo (~40%): Hyrox sled on an indoor course, empty of people.
 
-`Two founders turned a standard fitness race into a $140 million empire.`
+`QUIZ`
 
-Yellow on `$140 million empire`. Green on `$140 million`. Handwritten `how?` arrow to the photo.
+`1. First Hyrox race: about ___ athletes.`
+`A) 65    B) 650    C) 6,500`
+
+`2. Official kit partner?`
+`A) Nike    B) Puma    C) Adidas`
+
+Handwritten lock-in: `If you can't answer this, you have to read this.`
+Do not mark answers. Yellow on `QUIZ`. Do not write Koch. Do not write Nike as if it is correct.
+
+Answers later: **B) 650** on 3/8, **B) Puma** on 6/8.
 
 ### 2/8
 Photo: Hamburg event hall empty, or Hyrox start tape. No faces.

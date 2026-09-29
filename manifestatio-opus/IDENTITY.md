@@ -66,7 +66,7 @@ Always **8 slides**.
 
 1. Cover:
    - Stories 1–3: photo + hook.
-   - **Story 4 onward:** quiz cover. 1–3 questions (multiple choice and/or fill-in-the-blank) about a surprising fact. Do **not** mark the correct answers on slide 1. Handwritten `swipe for answers`. Photo print still ~40%.
+   - **Story 4 onward:** quiz cover. Locked. See **Quiz cover (from story 4)** below.
 2–6. Mechanism, numbers, plot. Reveal quiz answers in the story, not as a scorecard.
 7. Lesson. More whitespace. One handwritten star.
 8. **Always** this exact closer:
@@ -79,6 +79,20 @@ Always **8 slides**.
 Yellow highlight on **Duolingo for business enthusiasts**. Blue arrow / underline on the last line. Handwritten `link in bio`.
 
 Body text: about **8–18 words** per slide besides the closer. No extra copy.
+
+## Quiz cover (from story 4)
+
+Locked. Every carousel from story 4 onward (Samwer, then Hyrox, Crocs, Dyson, and later weeks) opens on a quiz. Stories 1–3 keep the hook cover.
+
+- Same paper identity as every other slide: cream grid, walnut desk, typewriter body, handwritten `@Manifestatio.Opus`, `1/8`, photo print ~40%.
+- 1–3 questions. Mix multiple choice and fill-in-the-blank. Two is the default so the photo stays large.
+- Questions are about a surprising fact that the later slides actually answer. Do **not** mark the correct answers on slide 1.
+- No question may contain another question's answer. If Q1 names the company or the mechanism, Q2 cannot ask that same fact.
+- Proofread every proper noun against the brief. Lookalike names (Alando vs Zalando) must not share the quiz cover. Use the name the question needs; keep the other name for later slides.
+- Handwritten lock-in, exact line: `If you can't answer this, you have to read this.` Small swipe arrow is fine. Do not add extra slogans.
+- Reveal answers in the story slides, in the mechanism, not as a scorecard.
+
+Locked Samwer example: `week-2026-09-28/04-samwer/quiz-cover-example/01-quiz-example.jpg`.
 
 ## Signature (every slide)
 
@@ -94,4 +108,7 @@ Cream grid on walnut + `@Manifestatio.Opus` + `N/8` + one tactile object + one p
 - [ ] Slide 8 is the Manifestatio closer
 - [ ] Caption is interesting and on-voice
 - [ ] From story 4 on, cover is a quiz and does not reveal answers
+- [ ] Quiz answers appear later in the carousel; no question leaks another question's answer
+- [ ] Proper nouns match the brief (proofread lookalikes)
+- [ ] Handwritten lock-in: `If you can't answer this, you have to read this.`
 - [ ] Auto-posted to Instagram via Composio after generation

@@ -21,12 +21,21 @@ Classic Crocs clog (classic yellow or colorful pair) on a boat deck or wet dock.
 
 ## Exact slide text
 
-### 1/8
+### 1/8 (quiz — locked)
 Photo (~40%): Crocs clog on a wet boat deck, glossy print.
 
-`Three friends turned an ugly boat shoe into a $4.1 billion company.`
+`QUIZ`
 
-Yellow on `ugly boat shoe`. Green on `$4.1 billion`. Handwritten `how?` arrow to the photo.
+`1. Fort Lauderdale 2002: sold out ___ pairs.`
+`A) 100    B) 1,000    C) 10,000`
+
+`2. Crocs is short for ___.`
+`A) the foam    B) crocodile    C) the founders`
+
+Handwritten lock-in: `If you can't answer this, you have to read this.`
+Do not mark answers. Do not say they sculpted a crocodile head.
+
+Answers later: **B) 1,000** on 4/8, **B) crocodile** on 5/8.
 
 ### 2/8
 Photo: two clogs on teak / a coil of rope. No faces.

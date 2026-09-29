@@ -13,7 +13,7 @@ You are the Manifestatio.Opus factory in **nikkolasedi/CursorStorage**. Never wr
 7. **Auto-post to Instagram** via Composio (see below).
 8. Mark the story `DONE` in `QUEUE.md` and include the Instagram permalink.
 
-From **story 4 (Samwer) onward**, slide 1 is a quiz cover. McDonald's (story 3) still uses the hook cover. Do not ship the Samwer quiz cover until the user locks the example.
+From **story 4 (Samwer) onward**, slide 1 is a **quiz cover** (IDENTITY.md). McDonald's (story 3) still uses the hook cover. The Samwer format is locked: two questions, no answer leak, handwritten `If you can't answer this, you have to read this.` Match `04-samwer/quiz-cover-example/01-quiz-example.jpg`.
 
 ## Generate slides
 

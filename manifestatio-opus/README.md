@@ -21,4 +21,4 @@ Format: 8-slide 4:5 carousel, **1080x1350**, one story per day.
 | Sat 3 Oct 06:00 | 6 Crocs | queued |
 | Sun 4 Oct 06:00 | 7 Dyson | queued |
 
-Timer: `0 4 * * *` UTC while CEST (06:00 Berlin).
+Timer: `0 4 * * *` UTC while CEST (06:00 Berlin). Auto-post each carousel to Instagram. From story 4 (Thursday) onward, slide 1 is a quiz cover.

@@ -9,7 +9,7 @@ What if the fastest way to build a billion-dollar company wasn't to innovate, bu
 ## Sourced facts (use these; do not invent)
 
 - Founders: **Marc, Oliver, and Alexander Samwer**. Rocket Internet.
-- **Alando** cloned eBay, launched 1 Mar 1999, sold to eBay **30 May 1999** (**100 days**) for about **$43 million**. Phrase: `100 days` / `~$43M`.
+- **Alando** cloned eBay, launched 1 Mar 1999, sold to eBay **30 May 1999** (**100 days**) for about **$43 million**. Phrase: `100 days` / `~$43M`. Alando is a real 1999 company, not a misspelling of Zalando. Keep `Alando` on story slides. Do **not** put Alando on the quiz cover next to Zalando.
 - **CityDeal** cloned Groupon and was sold back to Groupon in about six months for about **$126 million** in stock. Phrase: `~$126M`.
 - **Zalando** (Zappos play) IPO'd **1 Oct 2014** at about **€5.3B**. Phrase: `€5.3B`.
 - Lesson: execution often beats invention. Do not moralize beyond that. Do not invent extra deal sizes.
@@ -18,34 +18,31 @@ What if the fastest way to build a billion-dollar company wasn't to innovate, bu
 
 Zalando parcel. No faces.
 
-## Quiz cover (story 4 onward — WAIT for user lock)
+## Quiz cover (LOCKED — story 4 onward)
 
-Example is in `quiz-cover-example/01-quiz-example.jpg`. Do not replace 1/8 until the user approves.
-
-Proposed 1/8:
+Locked example: `quiz-cover-example/01-quiz-example.jpg`. This is 1/8. Do not fall back to the hook.
 
 Photo (~40%): Zalando package.
 
 `QUIZ`
 
-`1. Alando cloned eBay. Sold in ___ days.`
+`1. They sold their first clone`
+`back in ___ days.`
 `A) 1,000    B) 100    C) 10`
 
-`2. Zalando cloned which US company?`
+`2. Zalando cloned which`
+`US company?`
 `A) Amazon   B) Zappos   C) eBay`
 
-Handwritten: `swipe for answers`. Do not mark the correct answers.
+Handwritten lock-in: `If you can't answer this, you have to read this.`
+Do not mark the correct answers. Do not write Alando on this slide.
 
-If the user rejects the quiz cover, fall back to the hook line below.
+Answers later: **B) 100** on 3/8, **B) Zappos** on 4/8.
 
 ## Exact slide text
 
-### 1/8 (fallback hook, if quiz is not locked)
-Photo (~40%): Zalando package.
-
-`What if the fastest way to a billion wasn't to invent, but to copy?`
-
-Yellow on `wasn't to invent, but to copy`. Handwritten `how?` arrow to the photo.
+### 1/8 (quiz — locked)
+Photo (~40%): Zalando package. Use the quiz cover above. Do not use the old hook line.
 
 ### 2/8
 Photo: three empty office chairs / Berlin startup office exterior, no faces. Or Rocket-era building.

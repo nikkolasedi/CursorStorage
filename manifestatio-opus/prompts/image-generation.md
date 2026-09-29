@@ -17,3 +17,5 @@ Photographed real sheet of cream grid paper on a dark walnut desk, identical to 
 Then append the slide-specific text and marks from that day's `brief.md`.
 
 Cover slides: the taped photo is ~40% of the sheet. Other slides: smaller print is fine, still clearly a photograph of the real product.
+
+From story 4 onward, slide 1 is a quiz cover. Overlay typewriter questions after generating a blank-lower-half base (see `04-samwer/quiz-cover-example/`). Handwritten lock-in: `If you can't answer this, you have to read this.` Proofread names. No question may leak another question's answer.

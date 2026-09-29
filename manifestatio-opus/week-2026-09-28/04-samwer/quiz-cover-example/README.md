@@ -1,22 +1,20 @@
-# Quiz cover example (pending your lock)
+# Quiz cover — locked
 
-This is **not** the Thursday carousel yet. It is a 1/8 test for the Samwer post.
+Locked 1/8 for Samwer and the template for every story from 4 onward.
 
-## What I tried
+## Rules
 
-Two questions, mixed types, answers hidden, photo still ~40%, handwritten `swipe for answers`.
+- Two questions default. Mix fill-in-the-blank and multiple choice.
+- Answers live in later slides, never marked on 1/8.
+- No question contains another question's answer.
+- Proofread names. Alando (eBay clone, 100 days) stays off this cover so it cannot be read as a Zalando typo.
+- Handwritten lock-in: `If you can't answer this, you have to read this.`
 
-1. Fill in the blank: Alando cloned eBay. Sold in ___ days. A) 1,000  B) 100  C) 10
-2. Multiple choice: Zalando cloned which US company? A) Amazon  B) Zappos  C) eBay
+## This cover
 
-Answers (later slides, not marked here): **B) 100** and **B) Zappos**.
+1. They sold their first clone back in ___ days. A) 1,000  B) 100  C) 10
+2. Zalando cloned which US company? A) Amazon  B) Zappos  C) eBay
 
-## Why two, not three
+Answers later: **B) 100** (slide 3, Alando) and **B) Zappos** (slide 4).
 
-Two questions leave room for the parcel photo. Three starts to feel like a worksheet. Easy to add a third if you want it denser.
-
-Possible third: `Their edge wasn't creativity. It was ___.` A) patents  B) speed  C) ads
-
-## File
-
-`quiz-cover-example/01-quiz-example.jpg` (1080x1350)
+File: `01-quiz-example.jpg` (1080x1350)

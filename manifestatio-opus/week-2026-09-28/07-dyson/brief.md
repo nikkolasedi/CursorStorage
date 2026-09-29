@@ -25,12 +25,23 @@ Dyson cyclonic vacuum (or the clear-bin cyclone) on a workbench, no faces. Produ
 
 ## Exact slide text
 
-### 1/8
+### 1/8 (quiz — locked)
 Photo (~40%): Dyson bagless vacuum / cyclone bin, glossy print.
 
-`James Dyson did not fix the bag. He killed it.`
+`QUIZ`
 
-Yellow on `killed it`. Handwritten `how?` arrow to the photo.
+`1. How many prototypes before it worked?`
+`A) 512    B) 5,127    C) 51,270`
+
+`2. Who paid the bills while he built?`
+`A) investors    B) Deirdre's teaching salary    C) a bank`
+
+Handwritten lock-in: `If you can't answer this, you have to read this.`
+Do not mark answers. No wealth number. Do not call him an investor.
+
+Answers later: **B) 5,127** on 3/8, **B) Deirdre's teaching salary** on 3/8.
+
+Note: both answers are on 3/8, so they do not leak each other on 1/8. Do not rewrite Q2 as "how many prototypes did Deirdre fund?"
 
 ### 2/8
 Photo: a cloth vacuum bag, dusty, beside a workshop bench. No faces.
