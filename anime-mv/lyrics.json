@@ -1,0 +1,1504 @@
+[
+ {
+  "section": "intro",
+  "text": "Ketika rasa tidak bisa diungkapkan kata-kata,",
+  "start": 1.3400000000000016,
+  "end": 4.7,
+  "words": [
+   [
+    "Ketika",
+    1.34,
+    2.24
+   ],
+   [
+    "rasa",
+    2.24,
+    2.52
+   ],
+   [
+    "tidak",
+    2.52,
+    2.72
+   ],
+   [
+    "bisa",
+    2.72,
+    3.14
+   ],
+   [
+    "diungkapkan",
+    3.42,
+    4.06
+   ],
+   [
+    "kata-kata,",
+    4.06,
+    4.7
+   ]
+  ]
+ },
+ {
+  "section": "intro",
+  "text": "Izinkan saya untuk berpuisi",
+  "start": 5.4,
+  "end": 7.6,
+  "words": [
+   [
+    "Izinkan",
+    5.4,
+    6.02
+   ],
+   [
+    "saya",
+    6.02,
+    6.43
+   ],
+   [
+    "untuk",
+    6.43,
+    6.91
+   ],
+   [
+    "berpuisi",
+    6.91,
+    7.6
+   ]
+  ]
+ },
+ {
+  "section": "v1",
+  "text": "Sudah lama ku menunggu",
+  "start": 11.15,
+  "end": 14.36,
+  "words": [
+   [
+    "Sudah",
+    11.15,
+    11.98
+   ],
+   [
+    "lama",
+    11.98,
+    12.7
+   ],
+   [
+    "ku",
+    12.7,
+    13.17
+   ],
+   [
+    "menunggu",
+    13.17,
+    14.36
+   ]
+  ]
+ },
+ {
+  "section": "v1",
+  "text": "Sampai selesai kutulis lagu",
+  "start": 15.460000000000004,
+  "end": 19.4,
+  "words": [
+   [
+    "Sampai",
+    15.46,
+    16.36
+   ],
+   [
+    "selesai",
+    16.36,
+    17.26
+   ],
+   [
+    "kutulis",
+    17.46,
+    18.2
+   ],
+   [
+    "lagu",
+    18.2,
+    19.4
+   ]
+  ]
+ },
+ {
+  "section": "v1",
+  "text": "Lagu yang tak banyak orang dengar",
+  "start": 20.12,
+  "end": 23.76,
+  "words": [
+   [
+    "Lagu",
+    20.12,
+    21.02
+   ],
+   [
+    "yang",
+    21.02,
+    21.38
+   ],
+   [
+    "tak",
+    21.38,
+    21.74
+   ],
+   [
+    "banyak",
+    21.74,
+    22.1
+   ],
+   [
+    "orang",
+    22.1,
+    22.8
+   ],
+   [
+    "dengar",
+    22.8,
+    23.76
+   ]
+  ]
+ },
+ {
+  "section": "v1",
+  "text": "Tapi yang dengar pasti paham maksud perasaanku",
+  "start": 23.78,
+  "end": 29.6,
+  "words": [
+   [
+    "Tapi",
+    23.78,
+    24.22
+   ],
+   [
+    "yang",
+    24.22,
+    24.68
+   ],
+   [
+    "dengar",
+    24.68,
+    26.02
+   ],
+   [
+    "pasti",
+    26.02,
+    26.72
+   ],
+   [
+    "paham",
+    26.72,
+    27.3
+   ],
+   [
+    "maksud",
+    27.3,
+    27.74
+   ],
+   [
+    "perasaanku",
+    27.74,
+    29.6
+   ]
+  ]
+ },
+ {
+  "section": "v2",
+  "text": "\"Sudah siap\" kataku tiga tahun lalu",
+  "start": 30.82,
+  "end": 33.94,
+  "words": [
+   [
+    "\"Sudah",
+    30.82,
+    31.7
+   ],
+   [
+    "siap\"",
+    31.7,
+    32.18
+   ],
+   [
+    "kataku",
+    32.4,
+    32.68
+   ],
+   [
+    "tiga",
+    32.94,
+    33.22
+   ],
+   [
+    "tahun",
+    33.22,
+    33.56
+   ],
+   [
+    "lalu",
+    33.56,
+    33.94
+   ]
+  ]
+ },
+ {
+  "section": "v2",
+  "text": "Tapi perihal waktu Tuhan pasti lebih tahu",
+  "start": 33.94,
+  "end": 36.6,
+  "words": [
+   [
+    "Tapi",
+    33.94,
+    34.34
+   ],
+   [
+    "perihal",
+    34.34,
+    35.14
+   ],
+   [
+    "waktu",
+    35.14,
+    35.39
+   ],
+   [
+    "Tuhan",
+    35.14,
+    35.5
+   ],
+   [
+    "pasti",
+    35.5,
+    35.84
+   ],
+   [
+    "lebih",
+    35.84,
+    36.14
+   ],
+   [
+    "tahu",
+    36.14,
+    36.6
+   ]
+  ]
+ },
+ {
+  "section": "v2",
+  "text": "Saat itu tak banyak harapan",
+  "start": 36.6,
+  "end": 39.88,
+  "words": [
+   [
+    "Saat",
+    36.6,
+    36.9
+   ],
+   [
+    "itu",
+    36.9,
+    37.52
+   ],
+   [
+    "tak",
+    37.52,
+    38.28
+   ],
+   [
+    "banyak",
+    38.28,
+    38.7
+   ],
+   [
+    "harapan",
+    38.7,
+    39.88
+   ]
+  ]
+ },
+ {
+  "section": "v2",
+  "text": "Tampaknya karena aku terbiasa",
+  "start": 41.64,
+  "end": 46.02,
+  "words": [
+   [
+    "Tampaknya",
+    41.64,
+    42.48
+   ],
+   [
+    "karena",
+    42.48,
+    43.18
+   ],
+   [
+    "aku",
+    43.18,
+    43.66
+   ],
+   [
+    "terbiasa",
+    43.66,
+    46.02
+   ]
+  ]
+ },
+ {
+  "section": "v2",
+  "text": "Menunggu rusuk yang dulu hilang",
+  "start": 47.019999999999996,
+  "end": 48.9,
+  "words": [
+   [
+    "Menunggu",
+    47.02,
+    47.9
+   ],
+   [
+    "rusuk",
+    47.9,
+    48.15
+   ],
+   [
+    "yang",
+    47.9,
+    48.18
+   ],
+   [
+    "dulu",
+    48.18,
+    48.62
+   ],
+   [
+    "hilang",
+    48.62,
+    48.9
+   ]
+  ]
+ },
+ {
+  "section": "v2",
+  "text": "Dan tak kunjung datang",
+  "start": 49.48,
+  "end": 51.6,
+  "words": [
+   [
+    "Dan",
+    49.48,
+    49.86
+   ],
+   [
+    "tak",
+    49.86,
+    50.1
+   ],
+   [
+    "kunjung",
+    50.1,
+    50.52
+   ],
+   [
+    "datang",
+    50.52,
+    51.6
+   ]
+  ]
+ },
+ {
+  "section": "pre",
+  "text": "Tapi fotomu di gereja itu,",
+  "start": 51.6,
+  "end": 56.8,
+  "words": [
+   [
+    "Tapi",
+    51.6,
+    52.6
+   ],
+   [
+    "fotomu",
+    52.6,
+    54.68
+   ],
+   [
+    "di",
+    54.68,
+    55.02
+   ],
+   [
+    "gereja",
+    55.02,
+    55.76
+   ],
+   [
+    "itu,",
+    55.76,
+    56.8
+   ]
+  ]
+ },
+ {
+  "section": "pre",
+  "text": "diam diam melintas di eF Ye Pe ku",
+  "start": 56.84,
+  "end": 61.88,
+  "words": [
+   [
+    "diam",
+    56.84,
+    57.76
+   ],
+   [
+    "diam",
+    57.76,
+    59.0
+   ],
+   [
+    "melintas",
+    59.0,
+    60.14
+   ],
+   [
+    "di",
+    60.14,
+    60.5
+   ],
+   [
+    "eF",
+    60.5,
+    60.84
+   ],
+   [
+    "Ye",
+    60.84,
+    61.19
+   ],
+   [
+    "Pe",
+    61.19,
+    61.53
+   ],
+   [
+    "ku",
+    61.53,
+    61.88
+   ]
+  ]
+ },
+ {
+  "section": "pre",
+  "text": "Gereja yang mungkin hanya aku yang tahu",
+  "start": 62.0,
+  "end": 66.88,
+  "words": [
+   [
+    "Gereja",
+    62.0,
+    63.86
+   ],
+   [
+    "yang",
+    63.86,
+    64.36
+   ],
+   [
+    "mungkin",
+    64.36,
+    64.7
+   ],
+   [
+    "hanya",
+    64.7,
+    65.3
+   ],
+   [
+    "aku",
+    65.3,
+    65.8
+   ],
+   [
+    "yang",
+    65.8,
+    66.16
+   ],
+   [
+    "tahu",
+    66.16,
+    66.88
+   ]
+  ]
+ },
+ {
+  "section": "pre",
+  "text": "Pesonamu menghancurkan pesimismeku",
+  "start": 66.86,
+  "end": 71.96,
+  "words": [
+   [
+    "Pesonamu",
+    66.86,
+    68.46
+   ],
+   [
+    "menghancurkan",
+    68.66,
+    70.34
+   ],
+   [
+    "pesimismeku",
+    70.34,
+    71.96
+   ]
+  ]
+ },
+ {
+  "section": "pre",
+  "text": "Bahwa yang cantik paras dan iman",
+  "start": 71.94,
+  "end": 76.16,
+  "words": [
+   [
+    "Bahwa",
+    71.94,
+    73.22
+   ],
+   [
+    "yang",
+    73.22,
+    73.66
+   ],
+   [
+    "cantik",
+    73.66,
+    74.28
+   ],
+   [
+    "paras",
+    74.28,
+    74.72
+   ],
+   [
+    "dan",
+    74.72,
+    75.18
+   ],
+   [
+    "iman",
+    75.18,
+    76.16
+   ]
+  ]
+ },
+ {
+  "section": "pre",
+  "text": "Masih bisa kutemukan dalam satu insan",
+  "start": 76.32,
+  "end": 83.56,
+  "words": [
+   [
+    "Masih",
+    76.32,
+    78.56
+   ],
+   [
+    "bisa",
+    78.56,
+    79.02
+   ],
+   [
+    "kutemukan",
+    79.4,
+    80.14
+   ],
+   [
+    "dalam",
+    80.14,
+    80.96
+   ],
+   [
+    "satu",
+    80.96,
+    82.42
+   ],
+   [
+    "insan",
+    82.42,
+    83.56
+   ]
+  ]
+ },
+ {
+  "section": "ch1",
+  "text": "Kata Mama jodoh ada di tangan Tuhan",
+  "start": 85.16,
+  "end": 90.52,
+  "words": [
+   [
+    "Kata",
+    85.16,
+    86.16
+   ],
+   [
+    "Mama",
+    86.16,
+    87.18
+   ],
+   [
+    "jodoh",
+    87.18,
+    88.02
+   ],
+   [
+    "ada",
+    88.02,
+    88.72
+   ],
+   [
+    "di",
+    88.72,
+    89.1
+   ],
+   [
+    "tangan",
+    89.1,
+    89.82
+   ],
+   [
+    "Tuhan",
+    89.82,
+    90.52
+   ]
+  ]
+ },
+ {
+  "section": "ch1",
+  "text": "Hadirmu di hidupkulah saksinya",
+  "start": 90.5,
+  "end": 95.22,
+  "words": [
+   [
+    "Hadirmu",
+    90.5,
+    91.5
+   ],
+   [
+    "di",
+    92.1,
+    92.44
+   ],
+   [
+    "hidupkulah",
+    92.44,
+    93.68
+   ],
+   [
+    "saksinya",
+    93.68,
+    95.22
+   ]
+  ]
+ },
+ {
+  "section": "ch1",
+  "text": "Kalau saja, kamu tidak pindah kerja",
+  "start": 95.22,
+  "end": 100.42,
+  "words": [
+   [
+    "Kalau",
+    95.22,
+    96.6
+   ],
+   [
+    "saja,",
+    96.6,
+    97.72
+   ],
+   [
+    "kamu",
+    97.72,
+    98.52
+   ],
+   [
+    "tidak",
+    98.52,
+    98.9
+   ],
+   [
+    "pindah",
+    98.9,
+    99.68
+   ],
+   [
+    "kerja",
+    99.68,
+    100.42
+   ]
+  ]
+ },
+ {
+  "section": "ch1",
+  "text": "Kalau saja, kamu tidak pindah kota",
+  "start": 100.5,
+  "end": 105.16,
+  "words": [
+   [
+    "Kalau",
+    100.5,
+    101.6
+   ],
+   [
+    "saja,",
+    101.6,
+    102.88
+   ],
+   [
+    "kamu",
+    102.88,
+    103.68
+   ],
+   [
+    "tidak",
+    103.68,
+    104.1
+   ],
+   [
+    "pindah",
+    104.1,
+    104.84
+   ],
+   [
+    "kota",
+    104.84,
+    105.7
+   ]
+  ]
+ },
+ {
+  "section": "ch1",
+  "text": "Kalau saja, kamu tidak foto di gereja",
+  "start": 105.7,
+  "end": 111.58,
+  "words": [
+   [
+    "Kalau",
+    105.7,
+    106.74
+   ],
+   [
+    "saja,",
+    106.74,
+    108.06
+   ],
+   [
+    "kamu",
+    108.06,
+    108.84
+   ],
+   [
+    "tidak",
+    108.84,
+    109.22
+   ],
+   [
+    "foto",
+    109.22,
+    109.96
+   ],
+   [
+    "di",
+    109.96,
+    110.5
+   ],
+   [
+    "gereja",
+    110.5,
+    111.58
+   ]
+  ]
+ },
+ {
+  "section": "ch1",
+  "text": "Kalau kalau",
+  "start": 111.58,
+  "end": 115.0,
+  "words": [
+   [
+    "Kalau",
+    111.58,
+    112.32
+   ],
+   [
+    "kalau",
+    112.32,
+    115.0
+   ]
+  ]
+ },
+ {
+  "section": "ch1",
+  "text": "Yang perlahan berubah menjadi rasa syukur",
+  "start": 115.0,
+  "end": 124.8,
+  "words": [
+   [
+    "Yang",
+    115.0,
+    116.8
+   ],
+   [
+    "perlahan",
+    116.8,
+    119.14
+   ],
+   [
+    "berubah",
+    119.14,
+    120.44
+   ],
+   [
+    "menjadi",
+    120.44,
+    121.46
+   ],
+   [
+    "rasa",
+    121.46,
+    122.2
+   ],
+   [
+    "syukur",
+    122.2,
+    124.8
+   ]
+  ]
+ },
+ {
+  "section": "ch1",
+  "text": "Betapa senang bisa mengenalmu",
+  "start": 125.61999999999999,
+  "end": 129.56,
+  "words": [
+   [
+    "Betapa",
+    125.62,
+    126.32
+   ],
+   [
+    "senang",
+    126.32,
+    126.88
+   ],
+   [
+    "bisa",
+    126.88,
+    127.2
+   ],
+   [
+    "mengenalmu",
+    127.2,
+    129.56
+   ]
+  ]
+ },
+ {
+  "section": "ch1",
+  "text": "Ratusan kecocokan,",
+  "start": 130.7,
+  "end": 134.36,
+  "words": [
+   [
+    "Ratusan",
+    130.7,
+    132.3
+   ],
+   [
+    "kecocokan,",
+    132.3,
+    134.36
+   ]
+  ]
+ },
+ {
+  "section": "ch1",
+  "text": "buat ku optimis ini akan mudah dan indah",
+  "start": 134.36,
+  "end": 139.8,
+  "words": [
+   [
+    "buat",
+    134.36,
+    135.36
+   ],
+   [
+    "ku",
+    135.36,
+    135.61
+   ],
+   [
+    "optimis",
+    135.36,
+    136.2
+   ],
+   [
+    "ini",
+    136.2,
+    136.66
+   ],
+   [
+    "akan",
+    136.66,
+    137.42
+   ],
+   [
+    "mudah",
+    137.42,
+    138.38
+   ],
+   [
+    "dan",
+    138.38,
+    139.46
+   ],
+   [
+    "indah",
+    139.46,
+    140.68
+   ]
+  ]
+ },
+ {
+  "section": "ch1",
+  "text": "Puluhan perbedaan,",
+  "start": 140.68,
+  "end": 144.18,
+  "words": [
+   [
+    "Puluhan",
+    140.68,
+    142.38
+   ],
+   [
+    "perbedaan,",
+    142.38,
+    144.18
+   ]
+  ]
+ },
+ {
+  "section": "ch1",
+  "text": "ku yakin kita bisa saling melengkapi",
+  "start": 144.18,
+  "end": 151.98,
+  "words": [
+   [
+    "ku",
+    144.18,
+    145.38
+   ],
+   [
+    "yakin",
+    145.38,
+    145.8
+   ],
+   [
+    "kita",
+    145.8,
+    146.14
+   ],
+   [
+    "bisa",
+    146.14,
+    147.34
+   ],
+   [
+    "saling",
+    147.34,
+    149.12
+   ],
+   [
+    "melengkapi",
+    149.12,
+    151.98
+   ]
+  ]
+ },
+ {
+  "section": "v3",
+  "text": "Waktu berjalan, kita pun tumbuh dan saling mengenal",
+  "start": 151.98,
+  "end": 156.4,
+  "words": [
+   [
+    "Waktu",
+    151.98,
+    153.38
+   ],
+   [
+    "berjalan,",
+    153.38,
+    153.96
+   ],
+   [
+    "kita",
+    153.96,
+    154.3
+   ],
+   [
+    "pun",
+    154.3,
+    154.58
+   ],
+   [
+    "tumbuh",
+    154.58,
+    155.04
+   ],
+   [
+    "dan",
+    155.04,
+    155.22
+   ],
+   [
+    "saling",
+    155.22,
+    155.54
+   ],
+   [
+    "mengenal",
+    155.54,
+    156.4
+   ]
+  ]
+ },
+ {
+  "section": "v3",
+  "text": "Belajar saling mengerti dan beradaptasi",
+  "start": 156.4,
+  "end": 158.5,
+  "words": [
+   [
+    "Belajar",
+    156.4,
+    156.62
+   ],
+   [
+    "saling",
+    156.62,
+    156.98
+   ],
+   [
+    "mengerti",
+    156.98,
+    157.52
+   ],
+   [
+    "dan",
+    157.52,
+    157.64
+   ],
+   [
+    "beradaptasi",
+    157.64,
+    158.5
+   ]
+  ]
+ },
+ {
+  "section": "v3",
+  "text": "Doa dipanjatkan guna meyakinkan",
+  "start": 158.5,
+  "end": 160.6,
+  "words": [
+   [
+    "Doa",
+    158.5,
+    158.96
+   ],
+   [
+    "dipanjatkan",
+    158.96,
+    159.76
+   ],
+   [
+    "guna",
+    159.76,
+    160.2
+   ],
+   [
+    "meyakinkan",
+    160.2,
+    160.6
+   ]
+  ]
+ },
+ {
+  "section": "v3",
+  "text": "Rindu jadi bukti, kamu bukan sekadar pilihan",
+  "start": 161.04,
+  "end": 163.6,
+  "words": [
+   [
+    "Rindu",
+    161.04,
+    161.5
+   ],
+   [
+    "jadi",
+    161.5,
+    161.74
+   ],
+   [
+    "bukti,",
+    161.74,
+    162.14
+   ],
+   [
+    "kamu",
+    162.14,
+    162.4
+   ],
+   [
+    "bukan",
+    162.4,
+    162.72
+   ],
+   [
+    "sekadar",
+    162.72,
+    163.28
+   ],
+   [
+    "pilihan",
+    163.28,
+    163.6
+   ]
+  ]
+ },
+ {
+  "section": "v3",
+  "text": "Restu keluarga perlahan mulai terasa",
+  "start": 163.83,
+  "end": 166.88,
+  "words": [
+   [
+    "Restu",
+    163.83,
+    164.69
+   ],
+   [
+    "keluarga",
+    164.69,
+    165.21
+   ],
+   [
+    "perlahan",
+    165.21,
+    165.97
+   ],
+   [
+    "mulai",
+    165.97,
+    166.31
+   ],
+   [
+    "terasa",
+    166.31,
+    166.88
+   ]
+  ]
+ },
+ {
+  "section": "v3",
+  "text": "Tidak hanya sapa, melainkan sudah bertukar doa",
+  "start": 166.89,
+  "end": 172.32,
+  "words": [
+   [
+    "Tidak",
+    166.89,
+    167.93
+   ],
+   [
+    "hanya",
+    167.93,
+    168.23
+   ],
+   [
+    "sapa,",
+    168.23,
+    168.73
+   ],
+   [
+    "melainkan",
+    169.33,
+    170.19
+   ],
+   [
+    "sudah",
+    170.19,
+    170.55
+   ],
+   [
+    "bertukar",
+    170.55,
+    171.49
+   ],
+   [
+    "doa",
+    171.49,
+    172.32
+   ]
+  ]
+ },
+ {
+  "section": "ch2",
+  "text": "Kata Papa bibit bobot bebet",
+  "start": 172.32,
+  "end": 175.74,
+  "words": [
+   [
+    "Kata",
+    172.32,
+    173.19
+   ],
+   [
+    "Papa",
+    173.19,
+    173.67
+   ],
+   [
+    "bibit",
+    173.67,
+    174.65
+   ],
+   [
+    "bobot",
+    174.65,
+    175.25
+   ],
+   [
+    "bebet",
+    175.25,
+    175.74
+   ]
+  ]
+ },
+ {
+  "section": "ch2",
+  "text": "Semua ada di dirimu",
+  "start": 175.74,
+  "end": 178.42,
+  "words": [
+   [
+    "Semua",
+    175.74,
+    176.63
+   ],
+   [
+    "ada",
+    176.63,
+    176.95
+   ],
+   [
+    "di",
+    176.95,
+    177.2
+   ],
+   [
+    "dirimu",
+    176.95,
+    178.42
+   ]
+  ]
+ },
+ {
+  "section": "ch2",
+  "text": "Iman dan kasihmu menenangkanku",
+  "start": 178.42,
+  "end": 183.16,
+  "words": [
+   [
+    "Iman",
+    178.42,
+    179.47
+   ],
+   [
+    "dan",
+    179.47,
+    179.77
+   ],
+   [
+    "kasihmu",
+    179.77,
+    181.09
+   ],
+   [
+    "menenangkanku",
+    181.09,
+    183.16
+   ]
+  ]
+ },
+ {
+  "section": "ch2",
+  "text": "Masakanmu enak menyehatkan",
+  "start": 183.31,
+  "end": 188.78,
+  "words": [
+   [
+    "Masakanmu",
+    183.31,
+    185.63
+   ],
+   [
+    "enak",
+    185.63,
+    186.91
+   ],
+   [
+    "menyehatkan",
+    186.91,
+    188.78
+   ]
+  ]
+ },
+ {
+  "section": "ch2",
+  "text": "Apalagi yang kucari dan tak kutemukan",
+  "start": 188.78,
+  "end": 193.26,
+  "words": [
+   [
+    "Apalagi",
+    188.78,
+    189.67
+   ],
+   [
+    "yang",
+    189.67,
+    190.11
+   ],
+   [
+    "kucari",
+    190.41,
+    191.39
+   ],
+   [
+    "dan",
+    191.39,
+    191.75
+   ],
+   [
+    "tak",
+    191.75,
+    192.31
+   ],
+   [
+    "kutemukan",
+    192.31,
+    193.26
+   ]
+  ]
+ },
+ {
+  "section": "ch2",
+  "text": "Apalagi yang kutunggu selain kamu",
+  "start": 194.1,
+  "end": 199.86,
+  "words": [
+   [
+    "Apalagi",
+    194.1,
+    195.11
+   ],
+   [
+    "yang",
+    195.11,
+    195.71
+   ],
+   [
+    "kutunggu",
+    195.99,
+    196.81
+   ],
+   [
+    "selain",
+    196.81,
+    198.67
+   ],
+   [
+    "kamu",
+    198.67,
+    199.86
+   ]
+  ]
+ },
+ {
+  "section": "outro",
+  "text": "Sisa satu pertanyaanku",
+  "start": 202.45,
+  "end": 206.48,
+  "words": [
+   [
+    "Sisa",
+    202.45,
+    203.85
+   ],
+   [
+    "satu",
+    203.85,
+    204.91
+   ],
+   [
+    "pertanyaanku",
+    204.91,
+    206.48
+   ]
+  ]
+ },
+ {
+  "section": "outro",
+  "text": "Maukah kamu membangun rumah tangga Katolik bersamaku?",
+  "start": 206.48,
+  "end": 216.6,
+  "words": [
+   [
+    "Maukah",
+    206.48,
+    207.43
+   ],
+   [
+    "kamu",
+    207.43,
+    208.09
+   ],
+   [
+    "membangun",
+    208.09,
+    209.05
+   ],
+   [
+    "rumah",
+    209.05,
+    209.53
+   ],
+   [
+    "tangga",
+    209.53,
+    211.63
+   ],
+   [
+    "Katolik",
+    211.63,
+    213.59
+   ],
+   [
+    "bersamaku?",
+    213.59,
+    216.6
+   ]
+  ]
+ }
+]
