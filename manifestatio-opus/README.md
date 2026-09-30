@@ -6,6 +6,8 @@ Format: 8-slide 4:5 carousel, **1080x1350**, one story per day.
 | File | What it is |
 | --- | --- |
 | [IDENTITY.md](IDENTITY.md) | Locked visual identity, marker colors, layout rules |
+| [identity/highlight-reference.jpg](identity/highlight-reference.jpg) | Correct highlighter: bright paper, full-black ink |
+| [compose/overlay.py](compose/overlay.py) | Typewriter overlay. Paint marks on the paper, then ink. |
 | [PIPELINE.md](PIPELINE.md) | How to generate a morning carousel and post it |
 | [week-2026-09-28/QUEUE.md](week-2026-09-28/QUEUE.md) | This week's 7 stories and status |
 

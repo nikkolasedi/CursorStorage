@@ -49,7 +49,11 @@ Locked to the Michelin carousel in `week-2026-09-28/01-michelin/slides/`. Match 
 | Blue | `#3B7EA1` | numbers / action |
 | Green | `#7A9E5C` | money / growth |
 
-Marks are slightly imperfect and overlap the text. Mark **1–2 phrases only** per slide.
+Marks are slightly imperfect. Mark **1–2 phrases only** per slide.
+
+**Highlighter lock:** the mark brightens the paper behind the letters. Typewriter ink stays full black on top. Never wash, tint, or fade the letters. If a highlight makes the word look grey, the mark is on the wrong layer.
+
+Correct effect: `identity/highlight-reference.jpg` (Anonymous inspectors.). Paint the yellow stroke on the paper first, then stamp the ink. Same rule for green money highlights.
 
 ## Photo print rule
 
@@ -111,4 +115,5 @@ Cream grid on walnut + `@Manifestatio.Opus` + `N/8` + one tactile object + one p
 - [ ] Quiz answers appear later in the carousel; no question leaks another question's answer
 - [ ] Proper nouns match the brief (proofread lookalikes)
 - [ ] Handwritten lock-in: `If you can't answer this, you have to read this.`
+- [ ] Highlights brighten the paper; letters stay full black
 - [ ] Auto-posted to Instagram via Composio after generation

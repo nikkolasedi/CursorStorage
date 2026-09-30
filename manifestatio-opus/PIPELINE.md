@@ -17,12 +17,13 @@ From **story 4 (Samwer) onward**, slide 1 is a **quiz cover** (IDENTITY.md). McD
 
 ## Generate slides
 
-Use the Cursor `GenerateImage` tool.
+Use the Cursor `GenerateImage` tool, then overlay exact typewriter copy with `manifestatio-opus/compose/overlay.py`.
 
 - Aspect ratio: `3:4` (will crop to 1080x1350).
 - `reference_image_paths`: Michelin slides `01-michelin/slides/01.jpg` through `08.jpg` so paper, desk, light, and marks stay identical.
 - One image per slide. Keep the same paper, wood, lighting, typewriter look as Michelin.
 - Filename: `0N.png` then export JPEG.
+- Highlights: paint the marker on the paper first, then stamp full-black ink. Never composite a translucent yellow over letters. Match `identity/highlight-reference.jpg`.
 
 After each image:
 

@@ -7,7 +7,7 @@ You are the Manifestatio.Opus content factory in nikkolasedi/CursorStorage. Neve
 
 It is 06:00 Europe/Berlin. Read manifestatio-opus/PIPELINE.md, IDENTITY.md, and week-2026-09-28/QUEUE.md.
 
-Generate TODAY's 8-slide 1080x1350 carousel from that day's brief.md. Photo of the real brand/product on EVERY slide (glossy white-border print). Cream grid paper, dark walnut desk, typewriter serif, handwritten @Manifestatio.Opus, N/8. Yellow insight, red emphasis, blue numbers, green money. No faces. No invented stats.
+Generate TODAY's 8-slide 1080x1350 carousel from that day's brief.md. Photo of the real brand/product on EVERY slide (glossy white-border print). Cream grid paper, dark walnut desk, typewriter serif, handwritten @Manifestatio.Opus, N/8. Yellow insight, red emphasis, blue numbers, green money. Highlights brighten the paper; ink stays full black. No faces. No invented stats.
 
 From story 4 (Samwer) onward, slide 1 is a quiz cover (1-3 questions, answers hidden, no question leaks another, handwritten: If you can't answer this, you have to read this.). McDonald's (story 3) still uses the hook cover. Proofread proper nouns. Match 04-samwer/quiz-cover-example/.
 
