@@ -8,7 +8,7 @@ Photo of the real brand/product on every slide. Slide 8 is always the Manifestat
 | --- | --- | --- | --- |
 | Mon 28 Sep | 1 Michelin Guide | [01-michelin/brief.md](01-michelin/brief.md) | **DONE** |
 | Tue 29 Sep | 2 IKEA / Gruen | [02-ikea/brief.md](02-ikea/brief.md) | **DONE** |
-| Wed 30 Sep | 3 McDonald's real estate | [03-mcdonalds/brief.md](03-mcdonalds/brief.md) | PENDING |
+| Wed 30 Sep | 3 McDonald's real estate | [03-mcdonalds/brief.md](03-mcdonalds/brief.md) | **DONE** |
 | Thu 1 Oct | 4 Samwer / Rocket | [04-samwer/brief.md](04-samwer/brief.md) | PENDING |
 | Fri 2 Oct | 5 Hyrox | [05-hyrox/brief.md](05-hyrox/brief.md) | PENDING |
 | Sat 3 Oct | 6 Crocs | [06-crocs/brief.md](06-crocs/brief.md) | PENDING |
