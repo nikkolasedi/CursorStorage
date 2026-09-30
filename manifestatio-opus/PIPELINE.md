@@ -5,13 +5,14 @@ You are the Manifestatio.Opus factory in **nikkolasedi/CursorStorage**. Never wr
 ## When the 06:00 Berlin timer fires
 
 1. Compute **today** in `Europe/Berlin`.
-2. Open `week-2026-09-28/QUEUE.md` and the matching `brief.md`.
-3. If today's row is already `DONE`, post a one-line Slack note and stop.
-4. If today is before Tue 29 Sep 2026 06:00 Berlin, **do not generate**. Wait.
+2. Run the DM intake check first (`INTAKE.md` step 1) so nothing shared overnight is missed.
+3. Open `SCHEDULE.md` and find today's row. Its folder holds the `brief.md`.
+   - Source `DM @nikkolas.ep` with status `QUEUED`: follow `INTAKE.md` step 2 to fetch, transcribe, research and write the brief, then continue here.
+4. If today's row is already `DONE`, post a one-line Slack note and stop. If there is no row, post that the day is empty and stop.
 5. Generate that day's **8 slides**, then a creative on-voice Instagram caption.
 6. Save, commit, push, update the PR, post to Slack.
 7. **Auto-post to Instagram** via Composio (see below).
-8. Mark the story `DONE` in `QUEUE.md` and include the Instagram permalink.
+8. Mark the story `DONE` in `SCHEDULE.md` (and the week `QUEUE.md` if it has one) with the Instagram permalink.
 
 From **story 4 (Samwer) onward**, slide 1 is a **quiz cover** (IDENTITY.md). McDonald's (story 3) still uses the hook cover. The Samwer format is locked: two questions, no answer leak, handwritten `If you can't answer this, you have to read this.` Match `04-samwer/quiz-cover-example/01-quiz-example.jpg`.
 
@@ -32,8 +33,8 @@ After each image:
 3. Write:
 
 ```
-manifestatio-opus/week-2026-09-28/<story>/slides/0N.jpg
-manifestatio-opus/week-2026-09-28/<story>/slides/0N.png
+manifestatio-opus/<folder>/slides/0N.jpg
+manifestatio-opus/<folder>/slides/0N.png
 ```
 
 If a mark landed on the wrong words, or a face appeared, or a number was invented, regenerate that slide. Do not invent stats. If a figure is not in the brief, drop it.
@@ -68,7 +69,9 @@ After the slides are committed and the GitHub raw JPEGs return `200` with `conte
 
 Raw URL pattern:
 
-`https://raw.githubusercontent.com/nikkolasedi/CursorStorage/cursor/manifestatio-factory-376a/manifestatio-opus/week-2026-09-28/<story>/slides/0N.jpg`
+`https://raw.githubusercontent.com/nikkolasedi/CursorStorage/cursor/manifestatio-factory-376a/manifestatio-opus/<folder>/slides/0N.jpg`
+
+`<folder>` is the `SCHEDULE.md` folder, e.g. `week-2026-09-28/04-samwer` or `intake/2026-10-05`.
 
 ## Git
 
