@@ -3,6 +3,8 @@
   "sender_igsid": "1634361051386674",
   "conversation_id": "aWdfZAG06MzQwMjgyMzY2ODQxNzEwMzAxMjQ0MjU5MDQyNjg1OTgwMDk0NzQ0",
   "accept_after": "2026-09-30T15:37:00+0000",
-  "next_share_is_test": true,
-  "processed_message_ids": []
+  "next_share_is_test": false,
+  "processed_message_ids": [
+    "aWdfZAG1faXRlbToxOklHTWVzc2FnZAUlEOjE3ODQxNDI0MTg3Mjc3MTgyOjM0MDI4MjM2Njg0MTcxMDMwMTI0NDI1OTA0MjY4NTk4MDA5NDc0NDozMzAzNDExODM2MTE4NjM1NzI4MjE4ODcwNzI2NzM0NjQzMgZDZD"
+  ]
 }
