@@ -14,6 +14,12 @@ Every new DM share from `@nikkolas.ep` to `@manifestatio.opus` takes the **first
 | Sat 3 Oct | Crocs | weekly feed | `week-2026-09-28/06-crocs` | PENDING |
 | Sun 4 Oct | Dyson | weekly feed | `week-2026-09-28/07-dyson` | PENDING |
 | Mon 5 Oct | Louis Vuitton flat-top trunk | DM @nikkolas.ep | `intake/2026-10-05` | READY |
+| Tue 6 Oct | TBD (DM) | DM @nikkolas.ep | `intake/2026-10-06` | QUEUED |
+| Wed 7 Oct | TBD (DM) | DM @nikkolas.ep | `intake/2026-10-07` | QUEUED |
+| Thu 8 Oct | TBD (DM) | DM @nikkolas.ep | `intake/2026-10-08` | QUEUED |
+| Fri 9 Oct | TBD (DM) | DM @nikkolas.ep | `intake/2026-10-09` | QUEUED |
+| Sat 10 Oct | TBD (DM) | DM @nikkolas.ep | `intake/2026-10-10` | QUEUED |
+| Sun 11 Oct | TBD (DM) | DM @nikkolas.ep | `intake/2026-10-11` | QUEUED |
 
 Status values: `QUEUED` (DM received, not analysed yet), `PENDING` (brief ready), `READY` (slides + caption built and approved: skip generation, just upload `slides/` with `caption.txt`), `DONE` (posted, with permalink).
 
