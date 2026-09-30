@@ -1,7 +1,7 @@
 # Test run — Louis Vuitton: the flat-top trunk
 
 **Source:** DM from `@nikkolas.ep`, 30 Sep 2026 15:45 UTC. Reel: https://www.instagram.com/reel/Dcv-yUBRv3w/ (`@calexplains`, "How a Homeless Teen Created Louis Vuitton").
-**Status:** TEST. Not scheduled. Not uploaded.
+**Status:** READY. Scheduled Mon 5 Oct 2026, 06:00 Berlin. Slides approved by Nikkolas; post as-is.
 
 ## Story (Manifestatio retelling)
 

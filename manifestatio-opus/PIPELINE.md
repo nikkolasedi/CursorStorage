@@ -8,6 +8,7 @@ You are the Manifestatio.Opus factory in **nikkolasedi/CursorStorage**. Never wr
 2. Run the DM intake check first (`INTAKE.md` step 1) so nothing shared overnight is missed.
 3. Open `SCHEDULE.md` and find today's row. Its folder holds the `brief.md`.
    - Source `DM @nikkolas.ep` with status `QUEUED`: follow `INTAKE.md` step 2 to fetch, transcribe, research and write the brief, then continue here.
+   - Status `READY`: slides and caption are already approved. Do not regenerate. Skip to *Instagram auto-post*, then steps 6 and 8.
 4. If today's row is already `DONE`, post a one-line Slack note and stop. If there is no row, post that the day is empty and stop.
 5. Generate that day's **8 slides**, then a creative on-voice Instagram caption.
 6. Save, commit, push, update the PR, post to Slack.

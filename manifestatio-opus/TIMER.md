@@ -14,8 +14,9 @@ It is 06:00 Europe/Berlin. Read manifestatio-opus/PIPELINE.md, IDENTITY.md, INTA
 First run the DM intake check (INTAKE.md step 1). Then find TODAY's row in SCHEDULE.md.
 - Weekly-feed row: use the brief.md in its folder.
 - DM @nikkolas.ep row (QUEUED): fetch + transcribe the shared reel/post with compose/fetch_reel.py, research and verify the business story, write brief.md with a quiz cover (INTAKE.md step 2).
+- READY row: slides + caption.txt are already approved. Do NOT regenerate; upload them as-is.
 
-Generate the 8-slide 1080x1350 carousel. Photo of the real brand/product on EVERY slide (glossy white-border print). Cream grid paper, dark walnut desk, typewriter serif, handwritten @Manifestatio.Opus, N/8. Yellow insight, red emphasis, blue numbers, green money. Highlights brighten the paper; ink stays full black. No faces. No invented stats. Proofread proper nouns.
+Otherwise generate the 8-slide 1080x1350 carousel. Photo of the real brand/product on EVERY slide (glossy white-border print). Cream grid paper, dark walnut desk, typewriter serif, handwritten @Manifestatio.Opus, N/8. Yellow insight, red emphasis, blue numbers, green money. Highlights brighten the paper; ink stays full black. No faces. No invented stats. Proofread proper nouns.
 
 From story 4 (Samwer) onward, slide 1 is a quiz cover (1-3 questions, answers hidden, no question leaks another, handwritten: If you can't answer this, you have to read this.). Match week-2026-09-28/04-samwer/quiz-cover-example/.
 

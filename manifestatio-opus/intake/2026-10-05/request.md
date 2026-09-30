@@ -4,4 +4,4 @@
 - Sender: @nikkolas.ep
 - Received: 2026-09-30T15:45:44+0000
 - Note: none
-- Mode: TEST (build only, no upload, no schedule slot)
+- Mode: test run, approved 30 Sep; scheduled Mon 5 Oct

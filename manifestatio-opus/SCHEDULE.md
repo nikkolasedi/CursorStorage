@@ -13,7 +13,8 @@ Every new DM share from `@nikkolas.ep` to `@manifestatio.opus` takes the **first
 | Fri 2 Oct | Hyrox | weekly feed | `week-2026-09-28/05-hyrox` | PENDING |
 | Sat 3 Oct | Crocs | weekly feed | `week-2026-09-28/06-crocs` | PENDING |
 | Sun 4 Oct | Dyson | weekly feed | `week-2026-09-28/07-dyson` | PENDING |
+| Mon 5 Oct | Louis Vuitton flat-top trunk | DM @nikkolas.ep | `intake/2026-10-05` | READY |
 
-Status values: `QUEUED` (DM received, not analysed yet), `PENDING` (brief ready), `DONE` (posted, with permalink).
+Status values: `QUEUED` (DM received, not analysed yet), `PENDING` (brief ready), `READY` (slides + caption built and approved: skip generation, just upload `slides/` with `caption.txt`), `DONE` (posted, with permalink).
 
 A Sunday weekly feed fills only the dates still free. It never moves a DM story.

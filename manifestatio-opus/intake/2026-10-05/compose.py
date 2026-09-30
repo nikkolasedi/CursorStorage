@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Composite exact typewriter copy onto the Louis Vuitton test-run bases."""
+"""Composite exact typewriter copy onto the Louis Vuitton (Mon 5 Oct) bases."""
 
 import math
 import sys
