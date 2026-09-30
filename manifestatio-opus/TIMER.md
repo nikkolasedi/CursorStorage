@@ -1,6 +1,6 @@
 # Timers
 
-Timers expire after 7 days. Every run re-subscribes its own timer with the same name and prompt to keep it alive.
+Timers expire after 7 days. `subscribe_timer` dedupes by name and does not refresh an existing timer, so renewing means `unsubscribe` (id from `list_subscriptions`) then `subscribe_timer` with the same name, schedule and prompt.
 
 ## `manifestatio-opus-0600-berlin`
 
@@ -29,7 +29,7 @@ Yellow on Duolingo for business enthusiasts.
 Save slides + caption.txt, commit, push, update the PR, auto-post to @manifestatio.opus via Composio with a creative caption, mark DONE with the permalink in SCHEDULE.md, then post all 8 images + permalink to Slack.
 
 If today's row is already DONE, post a one-line Slack note and stop. If there is no row, say so in Slack and stop.
-Finally re-subscribe this timer (same name, cron, and this exact prompt from TIMER.md) so it does not expire.
+Finally, if this timer expires within 2 days (list_subscriptions), renew it per TIMER.md: unsubscribe, then subscribe_timer with the same name, cron and this exact prompt.
 ```
 
 ## `manifestatio-opus-dm-intake`
@@ -39,9 +39,9 @@ Cron: `0 * * * *` UTC (hourly).
 ```
 You are the Manifestatio.Opus content factory in nikkolasedi/CursorStorage. Never use unio_catholic_dating_app.
 
-Run manifestatio-opus/INTAKE.md step 1 only: read the @nikkolas.ep DM thread on @manifestatio.opus via Composio, slot every new share into the first free date in SCHEDULE.md, create intake/<date>/request.md, update intake/state.json, commit and push. Do not fetch, analyse, generate or post anything.
+Run manifestatio-opus/INTAKE.md step 1 only: read the @nikkolas.ep DM thread on @manifestatio.opus via Composio, slot every new share into the first free date in SCHEDULE.md, create intake/<date>/request.md, update intake/state.json, commit and push. Do not fetch, analyse, generate or post anything. While next_share_is_test is true, leave the first new share to the manifestatio-opus-test-run-watch timer.
 
 If there are no new shares, do nothing and end silently (no Slack message, no commit).
 If you queued something, post one short line to the Manifestatio Slack thread: "Queued <link> for <Day DD Mon>."
-Once a day (first run after 00:00 UTC), re-subscribe this timer (same name, cron, and this exact prompt from TIMER.md) so it does not expire.
+If this timer expires within 2 days (list_subscriptions), renew it per TIMER.md: unsubscribe, then subscribe_timer with the same name, cron and this exact prompt. Do the same for manifestatio-opus-0600-berlin if it is missing or expiring.
 ```
