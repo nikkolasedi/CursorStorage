@@ -9,7 +9,7 @@ Every new DM share from `@nikkolas.ep` to `@manifestatio.opus` takes the **first
 | Mon 28 Sep | Michelin Guide | weekly feed | `week-2026-09-28/01-michelin` | **DONE** |
 | Tue 29 Sep | IKEA / Gruen | weekly feed | `week-2026-09-28/02-ikea` | **DONE** — [Instagram](https://www.instagram.com/p/Dd4qVW0ncSM/) |
 | Wed 30 Sep | McDonald's real estate | weekly feed | `week-2026-09-28/03-mcdonalds` | **DONE** — [Instagram](https://www.instagram.com/p/Dd5dwSvkS52/) |
-| Thu 1 Oct | Samwer / Rocket | weekly feed | `week-2026-09-28/04-samwer` | PENDING |
+| Thu 1 Oct | Samwer / Rocket | weekly feed | `week-2026-09-28/04-samwer` | **DONE** — [Instagram](https://www.instagram.com/p/Dd8AkZlDfuy/) |
 | Fri 2 Oct | Hyrox | weekly feed | `week-2026-09-28/05-hyrox` | PENDING |
 | Sat 3 Oct | Crocs | weekly feed | `week-2026-09-28/06-crocs` | PENDING |
 | Sun 4 Oct | Dyson | weekly feed | `week-2026-09-28/07-dyson` | PENDING |
