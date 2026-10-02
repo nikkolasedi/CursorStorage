@@ -6,7 +6,7 @@ Only messages from `@nikkolas.ep` created after `accept_after` in `intake/state.
 
 ## 1. Slot it (hourly intake timer)
 
-1. Composio `INSTAGRAM_LIST_ALL_MESSAGES` on `conversation_id` from `intake/state.json`, fields `id,from,created_time,message,shares,attachments`. Rows are under `data.data`.
+1. Composio `INSTAGRAM_LIST_ALL_MESSAGES` on `conversation_id` from `intake/state.json`, fields `id,from,created_time,message,shares,attachments`. Rows are under `data.data`. Set `"account": "instagram"` on every Composio Instagram call (never `unio`).
 2. Keep messages where `from.username == "nikkolas.ep"`, `created_time > accept_after`, and `id` is not in `processed_message_ids`.
 3. If `next_share_is_test` is `true` in `intake/state.json`, the first new share is a **test run**: build it into `intake/test-run/` (step 2, no Instagram upload, no `SCHEDULE.md` row), mark it processed, set `next_share_is_test` to `false`, and report the slides to Nikkolas. Later shares follow the normal flow.
 4. For each, oldest first:

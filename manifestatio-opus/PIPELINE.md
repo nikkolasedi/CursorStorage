@@ -63,6 +63,8 @@ Interesting and swipeable. Twist in the first line. Mechanism in the middle. Les
 
 After the slides are committed and the GitHub raw JPEGs return `200` with `content-type: image/jpeg`:
 
+Every Composio Instagram call must set `"account": "instagram"` on the tool entry (session `girl`). Composio also has a `unio` Instagram account connected; never use it, and never let a call fall back to it.
+
 1. Confirm Instagram is ACTIVE (`@manifestatio.opus`, Creator).
 2. `INSTAGRAM_CREATE_CAROUSEL_CONTAINER` with `ig_user_id` `28217385824554429`, `child_image_urls` = the eight public raw JPEG URLs in order, `caption` = `caption.txt`.
 3. `INSTAGRAM_POST_IG_USER_MEDIA_PUBLISH` with the container id. `max_wait_seconds` 180.
