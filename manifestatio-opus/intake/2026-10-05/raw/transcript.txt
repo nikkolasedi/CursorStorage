@@ -1,0 +1,15 @@
+# language: en
+[   0.0-   4.3] How did a homeless boy create the most valuable luxury fashion brand in the world?
+[   4.9-  10.4] Louis Vuitton was born on August 4th, 1821 and grew up in a small village in France called
+[  10.4-  15.9] Anche. But when he was just 10 years old, his mother passed away. Louis's father quickly remarried,
+[  15.9-  20.6] but life at home became unbearable. His new stepmother was extremely controlling
+[  20.6-  25.2] and manipulative towards him. So when Louis was 13 years old, he ran away from home and
+[  25.2-  31.9] walked 225 miles on foot to Paris. He would do odd jobs for nearby villages in exchange for food
+[  31.9-  37.4] or coins. Louis was able to pick up valuable skills from craftsmen, learning how to work with metals,
+[  37.4-  42.9] stone, fabric, and wood. And when he arrived in Paris three years later at the age of 16,
+[  42.9-  47.5] he became an apprentice box maker, packing luggages for wealthy travelers.
+[  47.5-  52.7] At 33, he opened his own workshop in Paris. You see, luggages couldn't be stacked because
+[  52.7-  57.2] of the round tops back in the. So Louis designed the using canvas material.
+[  57.2-  60.2] They were lighter, durable, more water resistant and could
+[  60.2-  63.7] make them have flat tops. It made everything more efficient.
+[  63.7-  67.9] And now, the monogram is one of the most recognizable symbols in luxury fashion.
