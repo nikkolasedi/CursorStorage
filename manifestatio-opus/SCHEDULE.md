@@ -12,7 +12,7 @@ Every new DM share from `@nikkolas.ep` to `@manifestatio.opus` takes the **first
 | Thu 1 Oct | Samwer / Rocket | weekly feed | `week-2026-09-28/04-samwer` | **DONE** — [Instagram](https://www.instagram.com/p/Dd8AkZlDfuy/) |
 | Fri 2 Oct | Hyrox | weekly feed | `week-2026-09-28/05-hyrox` | **DONE** — [Instagram](https://www.instagram.com/p/Dd-lkZNEaVD/) |
 | Sat 3 Oct | Crocs | weekly feed | `week-2026-09-28/06-crocs` | **DONE** — [Instagram](https://www.instagram.com/p/DeBLLcGjSJ_/) |
-| Sun 4 Oct | Dyson | weekly feed | `week-2026-09-28/07-dyson` | PENDING |
+| Sun 4 Oct | Dyson | weekly feed | `week-2026-09-28/07-dyson` | **DONE** — [Instagram](https://www.instagram.com/p/DeDvPrzjaGo/) |
 | Mon 5 Oct | Louis Vuitton flat-top trunk | DM @nikkolas.ep | `intake/2026-10-05` | READY |
 | Tue 6 Oct | TBD (DM) | DM @nikkolas.ep | `intake/2026-10-06` | QUEUED |
 | Wed 7 Oct | TBD (DM) | DM @nikkolas.ep | `intake/2026-10-07` | QUEUED |

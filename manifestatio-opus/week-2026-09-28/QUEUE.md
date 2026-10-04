@@ -12,7 +12,7 @@ Photo of the real brand/product on every slide. Slide 8 is always the Manifestat
 | Thu 1 Oct | 4 Samwer / Rocket | [04-samwer/brief.md](04-samwer/brief.md) | **DONE** — [Instagram](https://www.instagram.com/p/Dd8AkZlDfuy/) |
 | Fri 2 Oct | 5 Hyrox | [05-hyrox/brief.md](05-hyrox/brief.md) | **DONE** — [Instagram](https://www.instagram.com/p/Dd-lkZNEaVD/) |
 | Sat 3 Oct | 6 Crocs | [06-crocs/brief.md](06-crocs/brief.md) | **DONE** — [Instagram](https://www.instagram.com/p/DeBLLcGjSJ_/) |
-| Sun 4 Oct | 7 Dyson | [07-dyson/brief.md](07-dyson/brief.md) | PENDING |
+| Sun 4 Oct | 7 Dyson | [07-dyson/brief.md](07-dyson/brief.md) | **DONE** — [Instagram](https://www.instagram.com/p/DeDvPrzjaGo/) |
 
 After a carousel ships, change that row to **DONE** and add `slides/` + `caption.txt`.
 
